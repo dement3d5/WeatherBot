@@ -16,7 +16,7 @@ namespace WeatherBot
 {
     class Program
     {
-        private static string token { get; set; } = "5553659992:AAEqG7xOCD04V9SZfa2DX8-sRQuSV-Ciq7s";
+        private static string token { get; set; } = "5354134037:AAGfFeCING_eZSrGZc72ENtMurJknRyqkUc";
         private static TelegramBotClient client;
 
         static string NameCity;
